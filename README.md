@@ -1,8 +1,8 @@
-# Personal-Task-Manager
+# Personal Task Manager
 
 **Project Code:** WST21-PM-2026-SF
 
-**Student Name:** Lastimos, Ruel Jr. Y.
+**Student Name:** Lastimoso, Ruel Jr. Y.
 
 **Course & Year:** BSIT 2
 
@@ -10,8 +10,8 @@
 
 ## Features
 
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+* Add Task
+* View Tasks
+* Edit Task
+* Delete Task
+* Update Status
